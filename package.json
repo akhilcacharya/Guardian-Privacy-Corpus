@@ -1,0 +1,22 @@
+{
+  "name": "guardian-privacy-corpus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilcacharya/Guardian-Privacy-Corpus.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhilcacharya/Guardian-Privacy-Corpus/issues"
+  },
+  "homepage": "https://github.com/akhilcacharya/Guardian-Privacy-Corpus#readme",
+  "dependencies": {
+    "guardian-news": "0.0.2"
+  }
+}

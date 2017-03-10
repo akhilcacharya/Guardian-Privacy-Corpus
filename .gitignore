@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Secret credentials
+config.json
+
+node_modules/
