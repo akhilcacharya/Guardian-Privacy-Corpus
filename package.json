@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/akhilcacharya/Guardian-Privacy-Corpus#readme",
   "dependencies": {
+    "async-request": "^1.2.0",
     "guardian-news": "0.0.2"
   }
 }
