@@ -1,0 +1,1 @@
+node --harmony-async-await fetch_urls.js
