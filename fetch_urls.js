@@ -32,21 +32,6 @@ async function getMetadata(key, query){
     }); 
 }
 
-async function fetchArticleText(key, url){
-    const query = qs.encode({
-        'show-blocks': 'body', 
-        'api-key': key
-    }); 
-
-    const { body } = await request(url + "?" + query); 
-    const { response } = JSON.parse(body); 
-
-    const corpus = response.content.blocks.body.reduce((acc, item) => {
-        return acc += item.bodyTextSummary + "\n"
-    }, ""); 
-
-    return corpus; 
-}
 
 
 async function main(){
