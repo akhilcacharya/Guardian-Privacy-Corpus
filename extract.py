@@ -76,7 +76,7 @@ def fetch_query_corpus(arg_tuple):
     # Print results to file
     filename = "CORPUS/%s.json" % (query_text)
     with open(filename, 'w') as outfile:
-        json.dump(results, outfile)
+        json.dump(results, outfile, indent=4)
 
 def main():     
     with open('config.json') as config_file: 
