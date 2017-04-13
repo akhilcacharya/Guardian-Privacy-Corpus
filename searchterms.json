@@ -1,0 +1,290 @@
+[{
+    "secret_key": "",
+    "name": "SURVEILLANCE AND LEAKS",
+    "search_term": "SURVEILLANCE AND LEAKS NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "GCHQ OR SURVEILLANCE",
+    "search_term": "GCHQ OR SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "AUSTRIA AND PRIVACY AND EITHER HNA AGENCIES",
+    "search_term": "AUSTRIA AND (HNA OR BVT) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "AUSTRIA AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "AUSTRIA AND (HNA OR BVT) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "BELGIUM AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "BELGIUM AND (SSE OR GISS OR ADIV) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "BELGIUM AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "BELGIUM AND (SSE OR GISS OR ADIV) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "BULGARIA AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "BULGARIA AND (SIAA) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "BULGARIA AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "BULGARIA AND (SIAA) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "CROATIA AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "CROATIA AND (SOA or VSA) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "CROATIA AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "CROATIA AND (SOA OR VSA) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "CYPRUS AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "CYPRUS AND (CIS) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "CYPRUS AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "CYPRUS AND (CIS) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "CZECH REPUBLIC AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "CZECH REPUBLIC AND (BIS OR UZSI) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "CZECH REPUBLIC AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "CZECH REPUBLIC AND (BIS OR UZSI) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "DENMARK AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "DENMARK AND (PET OR HEC) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "DENMARK AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "DENMARK AND (PET OR HEC) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "ESTONIA AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "ESTONIA AND (KAPO) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "ESTONIA AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "ESTONIA AND (KAPO) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "FINLAND AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "FINLAND AND (SUPO) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "FINLAND AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "FINLAND AND (SUPO) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "FRANCE AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "FRANCE AND (DGSI) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "FRANCE AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "FRANCE AND (DGSI) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "GERMANY AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "GERMANY AND (DGSI) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "GERMANY AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "GERMANY AND (DGSI) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "GREECE AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "GREECE AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "GREECE AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "GREECE AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "HUNGARY AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "HUNGARY AND (NBSZ OR IH) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "HUNGARY AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "HUNGARY AND (NBSZ OR IH) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "HUNGARY AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "HUNGARY AND (NBSZ OR IH) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "HUNGARY AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "HUNGARY AND (NBSZ OR IH) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "IRELAND AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "IRELAND AND (CIS OR SIGINT OR NSU) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "IRELAND AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "IRELAND AND (CIS OR SIGINT OR NSU) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "ITALY AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "ITALY AND (AISI OR AISE OR DIS) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "ITALY AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "ITALY AND (AISI OR AISE OR DIS) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "LATVIA AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "LATVIA AND (MIDD) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "LATVIA AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "LATVIA AND (MIDD) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "LITHUANIA AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "LITHUANIA AND (VSD OR AOTD) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "LITHUANIA AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "LITHUANIA AND (VSD OR AOTD) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "LUXEMBOURG AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "LUXEMBOURG AND (SREL) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "LUXEMBOURG AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "LUXEMBOURG AND (SREL) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "MALTA AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "MALTA AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "MALTA AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "MALTA AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "NETHERLANDS AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "NETHERLANDS AND (NSO) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "NETHERLANDS AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "NETHERLANDS AND (NSO) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "POLAND AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "POLAND AND (ABW) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "POLAND AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "POLAND AND (ABW) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "PORTUGAL AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "PORTUGAL AND (SIRP OR SIS) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "PORTUGAL AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "PORTUGAL AND (SIRP OR SIS) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "ROMANIA AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "ROMANIA AND (SRI) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "ROMANIA AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "ROMANIA AND (SRI) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "SLOVAKIA AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "SLOVAKIA AND (SIS OR NBU) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "SLOVAKIA AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "SLOVAKIA AND (SIS OR NBU) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "SPAIN AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "SPAIN AND (CNI) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "SPAIN AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "SPAIN AND (CNI) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "SWEDEN AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "SWEDEN AND (UNDK) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "SWEDEN AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "SWEDEN AND (UNDK) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "UK AND PRIVACY AND EITHER AGENCIES",
+    "search_term": "UK AND (GCHQ) AND PRIVACY NOT (nsa OR cia OR fbi OR cia OR usa)"
+},
+{
+    "secret_key": "",
+    "name": "UK AND SURVEILLANCE AND EITHER AGENCIES",
+    "search_term": "UK AND (GCHQ) AND SURVEILLANCE NOT (nsa OR cia OR fbi OR cia OR usa)"
+}]

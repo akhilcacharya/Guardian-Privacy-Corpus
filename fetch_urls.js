@@ -42,6 +42,9 @@ async function main(){
         const key = query.secret_key; 
         const keyword = query.search_term.trim(); 
 
+        console.log("Processing", keyword); 
+
+
         const { response } = await getMetadata(key, keyword); 
         
         let pageIdx = 1
@@ -53,6 +56,7 @@ async function main(){
         let totalPages = Math.floor(reqsLeft/PAGE_SIZE); 
 
         const queryUrls = []; 
+
 
         while(totalPages > 0){
             const { response } = await getArticlesUrls(key, keyword, pageIdx); 

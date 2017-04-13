@@ -36,7 +36,10 @@ def fetch_article_text(url, key):
 
     result = {}
 
-    content = response['response']['content']
+    try: 
+        content = response['response']['content']
+    except KeyError: 
+        return None
 
     title = content['webTitle']
     date = content['webPublicationDate']
@@ -68,10 +71,10 @@ def fetch_query_corpus(arg_tuple):
 
     print("Processing " + query_text)
 
-    # TODO: REMOVE LIMITATION
-    for line in lines[:100]: 
-        result = fetch_article_text(line, key)        
-        results.append(result)
+    for line in lines:
+        result = fetch_article_text(line, key)
+        if result != None: 
+            results.append(result)
 
     # Print results to file
     filename = "CORPUS/%s.json" % (query_text)
@@ -89,6 +92,8 @@ def main():
         simple_name = item['name']
         query_map[simple_name] = item['secret_key']
 
+    print query_map
+
     paths = os.listdir(BASE_PATH)
 
     args = []
@@ -97,10 +102,10 @@ def main():
         name = path.split('.')[0]
         key = query_map[name]
         args.append((path, name, key))
-    
-    path_len = len(paths)
 
-    p = Pool(path_len)
+    PROCESSES = 8
+
+    p = Pool(PROCESSES)
     p.map(fetch_query_corpus, args)
 
     print "Done"
