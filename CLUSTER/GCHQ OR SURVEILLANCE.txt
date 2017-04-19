@@ -1,0 +1,300 @@
+Cluster 0: GCHQ chief Robert Hannigan quits(distance: 0.0)
+('category: ', u'GCHQ chief Robert Hannigan quits')
+---
+Cluster 24: My work at GCHQ and the surveillance myths that need busting(distance: 0.0)
+('category: ', u'My work at GCHQ and the surveillance myths that need busting')
+---
+Cluster 24: Mass surveillance: my part in the reform of GCHQ and UK intelligence gathering | Heather Brooke(distance: 0.0)
+('category: ', u'Mass surveillance: my part in the reform of GCHQ and UK intelligence gathering | Heather Brooke')
+---
+Cluster 2: Ex-GCHQ whistleblower attacks plans to extend dragnet of secrecy law(distance: 0.0)
+('category: ', u'Ex-GCHQ whistleblower attacks plans to extend dragnet of secrecy law')
+---
+Cluster 1: Queensland police say they will not investigate council's audio surveillance(distance: 0.0)
+('category: ', u"Queensland police say they will not investigate council's audio surveillance")
+---
+Cluster 2: Anti-surveillance clothing aims to hide wearers from facial recognition(distance: 0.0)
+('category: ', u'Anti-surveillance clothing aims to hide wearers from facial recognition')
+---
+Cluster 0: GCHQ asked to step up action against cyber-attack threat to financial services(distance: 0.0)
+('category: ', u'GCHQ asked to step up action against cyber-attack threat to financial services')
+---
+Cluster 1: Surveillance has gone too far. The jig is up | Martha Spurrier(distance: 0.0)
+('category: ', u'Surveillance has gone too far. The jig is up | Martha Spurrier')
+---
+Cluster 1: Electric cars as part of the surveillance state | Letters(distance: 0.0)
+('category: ', u'Electric cars as part of the surveillance state | Letters')
+---
+Cluster 1: 'Snooper's charter' bill becomes law, extending UK state surveillance(distance: 0.0)
+('category: ', u"'Snooper's charter' bill becomes law, extending UK state surveillance")
+---
+Cluster 1: Fears over trial of '1984' surveillance system that anticipates antisocial acts(distance: 0.0)
+('category: ', u"Fears over trial of '1984' surveillance system that anticipates antisocial acts")
+---
+Cluster 1: UK public faces mass invasion of privacy as big data and surveillance merge(distance: 0.0)
+('category: ', u'UK public faces mass invasion of privacy as big data and surveillance merge')
+---
+Cluster 1: Montreal police defend surveillance of journalist's phone amid outcry(distance: 0.0)
+('category: ', u"Montreal police defend surveillance of journalist's phone amid outcry")
+---
+Cluster 1: Theres still time to stop the surveillance society | Gus Hosein(distance: 0.0)
+('category: ', u'There\u2019s still time to stop the surveillance society | Gus Hosein')
+---
+Cluster 1: Labour peers under fire for backing expansion of surveillance powers(distance: 0.0)
+('category: ', u'Labour peers under fire for backing expansion of surveillance powers')
+---
+Cluster 0: Welcome to Twitter @GCHQ. Heres some timely advice #justsaying | Rupert Myers(distance: 0.0)
+('category: ', u'Welcome to Twitter @GCHQ. Here\u2019s some timely advice #justsaying | Rupert Myers')
+---
+Cluster 1: I read zines to escape surveillance and clickbait. It's the new teen rebellion | Jonno Revanche(distance: 0.0)
+('category: ', u"I read zines to escape surveillance and clickbait. It's the new teen rebellion | Jonno Revanche")
+---
+Cluster 1: Mass surveillance ruled out as BBC iPlayer loophole closes(distance: 0.0)
+('category: ', u'Mass surveillance ruled out as BBC iPlayer loophole closes')
+---
+Cluster 1: 'Putin's new ghetto has no barbed-wire fence  just surveillance and harassment'(distance: 0.0)
+('category: ', u"'Putin's new ghetto has no barbed-wire fence \u2013 just surveillance and harassment'")
+---
+Cluster 1: Baltimore's newly revealed surveillance program raises legal questions(distance: 0.0)
+('category: ', u"Baltimore's newly revealed surveillance program raises legal questions")
+---
+Cluster 1: NYPD's Muslim surveillance violated regulations as recently as 2015: report(distance: 0.0)
+('category: ', u"NYPD's Muslim surveillance violated regulations as recently as 2015: report")
+---
+Cluster 1: Vancouver police confirm use of 'stingray' surveillance technology(distance: 0.0)
+('category: ', u"Vancouver police confirm use of 'stingray' surveillance technology")
+---
+Cluster 2: NSA director says British intelligence was not asked to spy on Trump(distance: 0.0)
+('category: ', u'NSA director says British intelligence was not asked to spy on Trump')
+---
+Cluster 1: Libraries promise to destroy user data to avoid threat of government surveillance(distance: 0.0)
+('category: ', u'Libraries promise to destroy user data to avoid threat of government surveillance')
+---
+Cluster 1: Surveillance sport: drone racing enters big leagues with ESPN broadcast(distance: 0.0)
+('category: ', u'Surveillance sport: drone racing enters big leagues with ESPN broadcast')
+---
+Cluster 1: Social media has us under surveillance  big business is the new Big Brother | Jonathan Freedland(distance: 0.0)
+('category: ', u'Social media has us under surveillance \u2013 big business is the new Big Brother | Jonathan Freedland')
+---
+Cluster 24: Surveillance ruling: GCHQ and privacy campaigners respond(distance: 0.0)
+('category: ', u'Surveillance ruling: GCHQ and privacy campaigners respond')
+---
+Cluster 0: GCHQ dismisses 'utterly ridiculous' claim it helped wiretap Trump(distance: 0.0)
+('category: ', u"GCHQ dismisses 'utterly ridiculous' claim it helped wiretap Trump")
+---
+Cluster 24: GCHQ conducted illegal surveillance, investigatory powers tribunal rules(distance: 0.0)
+('category: ', u'GCHQ conducted illegal surveillance, investigatory powers tribunal rules')
+---
+Cluster 0: GCHQ announces three men closest to completing Christmas puzzle(distance: 0.0)
+('category: ', u'GCHQ announces three men closest to completing Christmas puzzle')
+---
+Cluster 1: Theresa Mays surveillance plans should worry us all | John Naughton(distance: 0.0)
+('category: ', u'Theresa May\u2019s surveillance plans should worry us all | John Naughton')
+---
+Cluster 0: GCHQ can monitor MPs' communications, court rules(distance: 0.0)
+('category: ', u"GCHQ can monitor MPs' communications, court rules")
+---
+Cluster 1: Six surveillance films to make Trump paranoid(distance: 0.0)
+('category: ', u'Six surveillance films to make Trump paranoid')
+---
+Cluster 0: GCHQ  monitored own staff excessively(distance: 0.0)
+('category: ', u'GCHQ  monitored own staff excessively')
+---
+Cluster 0: As GCHQ places job ads in Shoreditch, one local applies...(distance: 0.0)
+('category: ', u'As GCHQ places job ads in Shoreditch, one local applies...')
+---
+Cluster 0: Want to solve GCHQ's Christmas puzzle? Team up(distance: 0.0)
+('category: ', u"Want to solve GCHQ's Christmas puzzle? Team up")
+---
+Cluster 0: Shoreditch spies: why does GCHQ want to hire hipsters?(distance: 0.0)
+('category: ', u'Shoreditch spies: why does GCHQ want to hire hipsters?')
+---
+Cluster 1: News of the World legal chief cleared over surveillance of lawyers(distance: 0.0)
+('category: ', u'News of the World legal chief cleared over surveillance of lawyers')
+---
+Cluster 24: Legality of GCHQ surveillance questioned by leading lawyer - video(distance: 0.0)
+('category: ', u'Legality of GCHQ surveillance questioned by leading lawyer - video')
+---
+Cluster 1: News of the World legal chief 'ordered  surveillance on rival lawyers'(distance: 0.0)
+('category: ', u"News of the World legal chief 'ordered  surveillance on rival lawyers'")
+---
+Cluster 1: European court to consider legality of UK surveillance laws(distance: 0.0)
+('category: ', u'European court to consider legality of UK surveillance laws')
+---
+Cluster 2: White House-GCHQ row reveals a leader willing to alienate allies to save face(distance: 0.0)
+('category: ', u'White House-GCHQ row reveals a leader willing to alienate allies to save face')
+---
+Cluster 1: EU judges could limit UK surveillance powers before referendum(distance: 0.0)
+('category: ', u'EU judges could limit UK surveillance powers before referendum')
+---
+Cluster 1: Labour demands more privacy safeguards in new surveillance laws(distance: 0.0)
+('category: ', u'Labour demands more privacy safeguards in new surveillance laws')
+---
+Cluster 0: 'Hello, world': GCHQ joins Twitter(distance: 0.0)
+('category: ', u"'Hello, world': GCHQ joins Twitter")
+---
+Cluster 24: GCHQ's surveillance of two human rights groups ruled illegal by tribunal(distance: 0.0)
+('category: ', u"GCHQ's surveillance of two human rights groups ruled illegal by tribunal")
+---
+Cluster 24: Justify GCHQ mass surveillance, European court tells ministers(distance: 0.0)
+('category: ', u'Justify GCHQ mass surveillance, European court tells ministers')
+---
+Cluster 0: Former head of GCHQ advising Shell and private intelligence firm(distance: 0.0)
+('category: ', u'Former head of GCHQ advising Shell and private intelligence firm')
+---
+Cluster 24: GCHQ surveillance hearing to begin(distance: 0.0)
+('category: ', u'GCHQ surveillance hearing to begin')
+---
+Cluster 2: Friday briefing: The woman in the mud  and I spy a lie(distance: 0.0)
+('category: ', u'Friday briefing: The woman in the mud \u2013\xa0and I spy a lie')
+---
+Cluster 0: Facebook and Twitter should do more to combat fake news, says GCHQ(distance: 0.0)
+('category: ', u'Facebook and Twitter should do more to combat fake news, says GCHQ')
+---
+Cluster 1: Aged-care surveillance means no privacy for couples to enjoy sex  study(distance: 0.0)
+('category: ', u'Aged-care surveillance means no privacy for couples to enjoy sex \u2013 study')
+---
+Cluster 0: British political parties ask GCHQ for advice on preventing cyber-attacks(distance: 0.0)
+('category: ', u'British political parties ask GCHQ for advice on preventing cyber-attacks')
+---
+Cluster 1: UK setting bad example on surveillance, says UN privacy chief(distance: 0.0)
+('category: ', u'UK setting bad example on surveillance, says UN privacy chief')
+---
+Cluster 1: Facebook and Instagram ban developers from using data for surveillance(distance: 0.0)
+('category: ', u'Facebook and Instagram ban developers from using data for surveillance')
+---
+Cluster 1: Documents support fears of Muslim surveillance by Obama-era program(distance: 0.0)
+('category: ', u'Documents support fears of Muslim surveillance by Obama-era program')
+---
+Cluster 1: Trumps wiretap paranoia and the reality of modern surveillance(distance: 0.0)
+('category: ', u'Trump\u2019s wiretap paranoia and the reality of modern surveillance')
+---
+Cluster 1: Surveillance state: fingerprinting pupils raises safety and privacy concerns(distance: 0.0)
+('category: ', u'Surveillance state: fingerprinting pupils raises safety and privacy concerns')
+---
+Cluster 1: Did Doctor Who really inspire a CIA surveillance codename?(distance: 0.0)
+('category: ', u'Did Doctor Who really inspire a CIA surveillance codename?')
+---
+Cluster 1: Super Bowl City: where surveillance state meets tacky shopping mall(distance: 0.0)
+('category: ', u'Super Bowl City: where surveillance state meets tacky shopping mall')
+---
+Cluster 2: 'Surveillance is never a solution': readers' thoughts on kids, tech and privacy(distance: 0.0)
+('category: ', u"'Surveillance is never a solution': readers' thoughts on kids, tech and privacy")
+---
+Cluster 1: Nick Clegg: dragnet surveillance to continue under snooper's charter(distance: 0.0)
+('category: ', u"Nick Clegg: dragnet surveillance to continue under snooper's charter")
+---
+Cluster 1: Security and liberty: Theresa Mays surveillance plans | Letters from Lord West and others(distance: 0.0)
+('category: ', u'Security and liberty: Theresa May\u2019s surveillance plans | Letters from Lord West and others')
+---
+Cluster 1: Meet Joe Simitian, Silicon Valley's surveillance technology watchdog(distance: 0.0)
+('category: ', u"Meet Joe Simitian, Silicon Valley's surveillance technology watchdog")
+---
+Cluster 0: GCHQ cyber boss plans British firewall to block hackers(distance: 0.0)
+('category: ', u'GCHQ cyber boss plans British firewall to block hackers')
+---
+Cluster 0: MI5, MI6, GCHQ:  a matter of trust(distance: 0.0)
+('category: ', u'MI5, MI6, GCHQ:  a matter of trust')
+---
+Cluster 24: Illegal surveillance: GCHQ's 'neither confirm nor deny' a thing of the past(distance: 0.0)
+('category: ', u"Illegal surveillance: GCHQ's 'neither confirm nor deny' a thing of the past")
+---
+Cluster 1: Why journalists should challenge the new surveillance powers(distance: 0.0)
+('category: ', u'Why journalists should challenge the new surveillance powers')
+---
+Cluster 1: Google and Microsoft have made a pact to protect surveillance capitalism(distance: 0.0)
+('category: ', u'Google and Microsoft have made a pact to protect surveillance capitalism')
+---
+Cluster 1: Who's paranoid? Personal security tech goes mainstream in surveillance era(distance: 0.0)
+('category: ', u"Who's paranoid? Personal security tech goes mainstream in surveillance era")
+---
+Cluster 2: The Guardian view on Donald Trump and alliances: he doesnt do them | Editorial(distance: 0.0)
+('category: ', u'The Guardian view on Donald Trump and alliances: he doesn\u2019t do them | Editorial')
+---
+Cluster 1: Debate tonight on 'press freedom in a surveillance state'(distance: 0.0)
+('category: ', u"Debate tonight on 'press freedom in a surveillance state'")
+---
+Cluster 2: Data ruling should kill off the investigatory powers bill | Letter from Jenny Jones(distance: 0.0)
+('category: ', u'Data ruling should kill off the investigatory powers bill | Letter from Jenny Jones')
+---
+Cluster 1: Asic funding boost to restore Abbott-era cuts and enhance surveillance(distance: 0.0)
+('category: ', u'Asic funding boost to restore Abbott-era cuts and enhance surveillance')
+---
+Cluster 24: Letters: GCHQ and the limits of the surveillance state(distance: 0.0)
+('category: ', u'Letters: GCHQ and the limits of the surveillance state')
+---
+Cluster 0: GCHQ Christmas puzzle likely to be worked out before festive season(distance: 0.0)
+('category: ', u'GCHQ Christmas puzzle likely to be worked out before festive season')
+---
+Cluster 1: MP calls for limit on UK surveillance powers as EU test case opens(distance: 0.0)
+('category: ', u'MP calls for limit on UK surveillance powers as EU test case opens')
+---
+Cluster 1: FBI's pre-election sweep of Muslim Americans raises surveillance fears(distance: 0.0)
+('category: ', u"FBI's pre-election sweep of Muslim Americans raises surveillance fears")
+---
+Cluster 24: Today is a great victory against GCHQ, the NSA and the surveillance state | Carly Nyst(distance: 0.0)
+('category: ', u'Today is a great victory against GCHQ, the NSA and the surveillance state | Carly Nyst')
+---
+Cluster 1: 'Part of growing up Muslim': calls for surveillance not new for Brooklynites(distance: 0.0)
+('category: ', u"'Part of growing up Muslim': calls for surveillance not new for Brooklynites")
+---
+Cluster 1: BlackBerry to pull out of Pakistan over government surveillance(distance: 0.0)
+('category: ', u'BlackBerry to pull out of Pakistan over government surveillance')
+---
+Cluster 1: Surveillance must increase after terror attacks, say 2016 candidates(distance: 0.0)
+('category: ', u'Surveillance must increase after terror attacks, say 2016 candidates')
+---
+Cluster 0: GCHQ spied on Amnesty International, tribunal tells group in email(distance: 0.0)
+('category: ', u'GCHQ spied on Amnesty International, tribunal tells group in email')
+---
+Cluster 1: Questions remain over police surveillance of bereaved sister(distance: 0.0)
+('category: ', u'Questions remain over police surveillance of bereaved sister')
+---
+Cluster 1: Ted Cruz proposal to reinstate NYPD's Muslim surveillance met with scorn(distance: 0.0)
+('category: ', u"Ted Cruz proposal to reinstate NYPD's Muslim surveillance met with scorn")
+---
+Cluster 1: Does the Berlin attack make the case for increased surveillance?(distance: 0.0)
+('category: ', u'Does the Berlin attack make the case for increased surveillance?')
+---
+Cluster 1: Theresa May accused of rushing surveillance bill through back door(distance: 0.0)
+('category: ', u'Theresa May accused of rushing surveillance bill through back door')
+---
+Cluster 0: Can you solve GCHQ's infuriatingly complex Christmas puzzle?(distance: 0.0)
+('category: ', u"Can you solve GCHQ's infuriatingly complex Christmas puzzle?")
+---
+Cluster 1: Surveillance operation targeting sister of former paratrooper 'not properly authorised'(distance: 0.0)
+('category: ', u"Surveillance operation targeting sister of former paratrooper 'not properly authorised'")
+---
+Cluster 1: The Guardian view on surveillance in Britain: keep an eye on the rich, not just the poor | Editorial(distance: 0.0)
+('category: ', u'The Guardian view on surveillance in Britain: keep an eye on the rich, not just the poor | Editorial')
+---
+Cluster 2: Face-off between MPs and social media giants over online hate speech(distance: 0.0)
+('category: ', u'Face-off between MPs and social media giants over online hate speech')
+---
+Cluster 1: Are you ready to revisit the EU referendum campaign? Plus: quality new ITV crime drama and the return of Channel 4s surveillance reality show(distance: 0.0)
+('category: ', u'Are you ready to revisit the EU referendum campaign? Plus: quality new ITV crime drama and the return of Channel 4\u2019s surveillance reality show')
+---
+Cluster 1: These internet surveillance powers risk undermining the judiciary | Joshua Rozenberg(distance: 0.0)
+('category: ', u'These internet surveillance powers risk undermining the judiciary | Joshua Rozenberg')
+---
+Cluster 1: The Guardian view on the surveillance bill: more thought and honesty needed | Editorial(distance: 0.0)
+('category: ', u'The Guardian view on the surveillance bill: more thought and honesty needed | Editorial')
+---
+Cluster 1: Online surveillance bill 'will fall without judicial oversight'(distance: 0.0)
+('category: ', u"Online surveillance bill 'will fall without judicial oversight'")
+---
+Cluster 1: 'Extreme surveillance' becomes UK law with barely a whimper(distance: 0.0)
+('category: ', u"'Extreme surveillance' becomes UK law with barely a whimper")
+---
+Cluster 1: Labour warns Cameron over draft surveillance and anti-terror laws(distance: 0.0)
+('category: ', u'Labour warns Cameron over draft surveillance and \u200banti-terror laws')
+---
+Cluster 1: Privacy experts fear Donald Trump running global surveillance network(distance: 0.0)
+('category: ', u'Privacy experts fear Donald Trump running global surveillance network')
+---
+Cluster 1: NYPD settlement on Muslim surveillance not 'sufficient', judge rules(distance: 0.0)
+('category: ', u"NYPD settlement on Muslim surveillance not 'sufficient', judge rules")
+---
+Cluster 1: White House does not know if alleged surveillance of Trump was by wiretap(distance: 0.0)
+('category: ', u'White House does not know if alleged surveillance of Trump was by wiretap')
+---
