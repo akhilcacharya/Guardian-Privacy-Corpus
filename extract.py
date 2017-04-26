@@ -12,7 +12,7 @@ import os
 import time
 from multiprocessing import Pool
 
-BASE_PATH = "./RESULTS/"
+BASE_PATH = "./ARTICLE_URLS/"
 
 def collect_corpus(body_list): 
     result = "" 

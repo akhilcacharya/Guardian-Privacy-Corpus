@@ -71,7 +71,7 @@ async function main(){
 
         const resultString = queryUrls.join('\n'); 
 
-        const newFile = fs.writeFileSync(`RESULTS/${query.name}.txt`, resultString); 
+        const newFile = fs.writeFileSync(`ARTICLE_URLS/${query.name}.txt`, resultString); 
     }; 
 }
 
