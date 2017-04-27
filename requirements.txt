@@ -3,3 +3,6 @@ gensim
 nltk 
 sklearn
 numpy
+pandas
+matplotlib
+wordcloud

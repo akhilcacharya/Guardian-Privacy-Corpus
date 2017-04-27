@@ -13,8 +13,11 @@ import time
 from multiprocessing import Pool
 
 BASE_PATH = "./ARTICLE_URLS/"
-
+ 
 def collect_corpus(body_list): 
+    """ Iterates through the body of the text docs, 
+        and accumulates a full text body""" 
+    
     result = "" 
 
     for body in body_list: 
@@ -23,6 +26,7 @@ def collect_corpus(body_list):
     return result 
 
 def fetch_article_text(url, key):
+    """ Grab the article text for a given URL """
     qs = {
         'show-blocks': 'body', 
         'api-key': key
@@ -47,8 +51,10 @@ def fetch_article_text(url, key):
     
     print("Processing " + title)
 
+    # Combine sub-parts of the body into 1 string
     text = collect_corpus(body)
 
+    # Return an object with the title, date, and text body
     result = {
         "title": title, 
         "date": date, 
@@ -60,10 +66,12 @@ def fetch_article_text(url, key):
 
 
 def fetch_query_corpus(arg_tuple): 
-
+    """ Fetch the query corpus in parallel """ 
+    
+    # Destructure the tuple (needed for multiprocessing)
     path, query_text, key = arg_tuple
 
-
+    # Open file and fetch all lines of URLs
     with open(BASE_PATH + path) as url_file: 
         lines = url_file.read().split('\n')
     
@@ -81,18 +89,19 @@ def fetch_query_corpus(arg_tuple):
     with open(filename, 'w') as outfile:
         json.dump(results, outfile, indent=4)
 
-def main():     
+def main():  
+    """ Main method """ 
+
+    # Load the configuration file   
     with open('config.json') as config_file: 
         config = json.load(config_file)
 
-    # Convert query name -> key map 
+    # Create map to associate query term to the secret key 
     query_map = {}
 
     for item in config: 
         simple_name = item['name']
         query_map[simple_name] = item['secret_key']
-
-    print query_map
 
     paths = os.listdir(BASE_PATH)
 
@@ -103,9 +112,12 @@ def main():
         key = query_map[name]
         args.append((path, name, key))
 
+    # 8 processes - 1 per thread on i7
     PROCESSES = 8
 
+    # Create a pool to process in parallel
     p = Pool(PROCESSES)
+
     p.map(fetch_query_corpus, args)
 
     print "Done"
