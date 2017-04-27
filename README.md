@@ -10,6 +10,8 @@ Goal: Extract a text corpus from the Guardian on **Government-related Privacy Ne
 
 Jupyter notebooks can be run with Python 2 and Python 3 kernels. 
 
+The Node.js script requires async/await support in the latest versions of Node.js (we used 7.7.1). 
+
 # Navigating the Results 
 
 The overall article corpus may be found at this [link](https://drive.google.com/open?id=0ByZdUPsaQTSvbzV1WEcxMjlPZG8) 
