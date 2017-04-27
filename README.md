@@ -3,7 +3,7 @@
 Goal: Extract a text corpus from the Guardian on **Government-related Privacy News**, and perform analysis. 
 
 # Setup 
-
+ 
 * Install node modules by doing ``npm install``
 
 * Install python modules by doing ``pip install -r requirements.txt``
