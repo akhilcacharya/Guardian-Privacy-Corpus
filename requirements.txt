@@ -6,3 +6,5 @@ numpy
 pandas
 matplotlib
 wordcloud
+BeautifulSoup
+tqdm
